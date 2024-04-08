@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielcreates">Data Analyst</a>, <a href="https://www.linkedin.com/in/danvalq/">Banker</a>, <a href="https://www.youtube.com/c/joshmadakor">Web Developer</a></h1>
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
-**danielcreates/danielcreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
